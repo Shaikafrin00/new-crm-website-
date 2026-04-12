@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        sans: ['DM Sans', 'sans-serif'],
+        heading: ['Space Grotesk', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -46,6 +50,11 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        status: {
+          new: "hsl(var(--status-new))",
+          contacted: "hsl(var(--status-contacted))",
+          converted: "hsl(var(--status-converted))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
