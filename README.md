@@ -4,7 +4,7 @@ LeadManager CRM is a modern and responsive lead management web application built
 
 ## 🚀 Live Demo
 
-🌐 https://newcrmmanager.netlify.app
+🌐 https://newcrmleadcrm.netlify.app/
 
 ---
 
